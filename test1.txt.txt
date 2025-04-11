@@ -1,1 +1,3 @@
-GitHub is a website that allows users to store, manage, and share code. It's a collaboration platform that uses Git, an open-source version control tool. GitHub is a popular resource for developers to work together on projects.
+GitHub is a website that allows users to store, manage, and share code.
+It's a collaboration platform that uses Git, an open-source version control tool.
+GitHub is a popular resource for developers to work together on projects.
